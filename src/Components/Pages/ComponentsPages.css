@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  justify-content:center ;
+  text-align: center;
+}
+.container-signup{
+  width: 500px;
+  height: 700px;
+  background-color: blueviolet;
+}
+.container-signup h1{
+  color: aliceblue;
+  text-align: center;
+  display: flex;
+}
